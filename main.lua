@@ -2,7 +2,7 @@
 --
 -- main.lua
 -- Created by: Wendi Yu
--- Created on: Apr 2018
+-- Created on: May 2018
 --
 -- character move use the button , have gravity, add jump button, add shoot button, add sound and enemy 
 -----------------------------------------------------------------------------------------
